@@ -4,8 +4,5 @@
   "description": "Backend placeholder to prevent Vercel build conflicts. Dependencies are managed in root package.json",
   "scripts": {
     "dev": "npm run dev:backend --prefix .."
-  },
-  "devDependencies": {
-    "tsx": "^4.20.6"
   }
 }
